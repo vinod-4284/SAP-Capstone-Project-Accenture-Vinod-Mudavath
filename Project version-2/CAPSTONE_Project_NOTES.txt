@@ -1,0 +1,47 @@
+PROJECT:
+Employee Data Synchronization using SAP Integration Suite
+
+SuccessFactors Users:
+rharrison
+szhou
+
+S/4HANA Host:
+awslkm0133.training.accenture.com
+
+S/4HANA Port:
+8000
+
+S/4HANA Service:
+/sap/opu/odata/sap/ZEMPDET_SRV_SRV/
+
+SFTP Directory:
+AEH
+
+SFTP File Name:
+<YourFirstName><YourLastName>.csv
+
+
+
+
+
+
+Credentials: 
+ 
+SuccessFactor : SFCred_Laxmi
+Odata Oprem : L4C_Cred
+SFTP - Your personal account
+error handling ->Mail -Your personal account
+ 
+PS : if you edit the creds , then its your prob
+
+
+
+success factor:    https://apisalesdemo8.successfactors.com
+
+
+
+http://awslkm0133.training.accenture.com:8000/sap/opu/odata/sap/ZEMPDET_SRV_SRV/
+ 
+what to submit :
+agile summary(word,pdf) + PPT + iflow zipfile
+ 
